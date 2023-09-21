@@ -7,3 +7,5 @@ If you want me to try something else you tried yourself and found you learnt a l
 - Wasserstein-DCGAN with Gradient Penalty on the MNIST Dataset (MNIST_WDCGAN-GP.ipynb)
 - Self-attention-Wasserstein-DCGAN with Gradient Penalty on the HANDMNIST Dataset (HAND_Attention-WDCGAN-GP.ipynb)
 ![](results/HANDSMNISTwithoutAtt.gif)
+- Pix2Pix on a Satellite <-> Google map images dataset (SATELLITE_PIX2PIX.ipynb)
+![](results/SATELLITE.gif)
