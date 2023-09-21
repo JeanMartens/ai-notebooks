@@ -4,4 +4,6 @@ If you want me to try something else you tried yourself and found you learnt a l
 
 ### I've so far implement the following in this repo:
 - DCGAN on the MNIST Dataset (MNIST_DCGAN.ipynb) 
-- Wasserstein-DCGAN with Gradient Penalty on the MNIST Dataset (MNIST_WDCGAN-GP.ipynb) 
+- Wasserstein-DCGAN with Gradient Penalty on the MNIST Dataset (MNIST_WDCGAN-GP.ipynb)
+- Self-attention-Wasserstein-DCGAN with Gradient Penalty on the HANDMNIST Dataset (MNIST_WDCGAN-GP.ipynb)
+![](results/HANDSMNIST.gif)
